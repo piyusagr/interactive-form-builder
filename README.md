@@ -116,5 +116,5 @@ You can view the live demo of the app here:
 - **Building the Form Builder**: 3 hours
 - **File Upload Functionality**: 2 hours
 - **UI Enhancements (Material-UI integration)**: 1 hours
-- **Testing & Debugging**: 1 hours
+- **Testing & Debugging**: 2 hours
 - **Total Time Spent**: 9 hours
